@@ -1,4 +1,4 @@
-# modyl16.9.4
+
 # modyl16.9.4
 
 class Klient:
